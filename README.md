@@ -1,5 +1,4 @@
 # Community-Resource-Finder
-# Community Resource Finder
 
 A web application to help users locate nearby community resources such as food banks, shelters, and health clinics, with AI-powered suggestions based on user needs.
 

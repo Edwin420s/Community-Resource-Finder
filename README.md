@@ -6,8 +6,6 @@ A web application to help users locate nearby community resources such as food b
 
 ## Demo
 
-![Screenshot](screenshot.png)  
-*Replace this with your actual screenshot or demo link.*
 
 ---
 
